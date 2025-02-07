@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/HungHyperX/SmartAirConditioner-Backend-ProjectIII.git
+[submodule "embedded/project3"]
+	path = embedded/project3
+	url = https://github.com/HungHyperX/SmartAirConditioner-Embedded-ProjectIII.git
